@@ -1,0 +1,24 @@
+{
+  "name": "moyo-test-in-work",
+  "version": "1.0.0",
+  "description": "MOYO test in work",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stelmak99/MOYO-test-in-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Stelmak99/MOYO-test-in-work/issues"
+  },
+  "homepage": "https://github.com/Stelmak99/MOYO-test-in-work#readme",
+  "dependencies": {
+    "motion": "^12.38.0"
+  }
+}
